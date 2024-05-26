@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umeshnayak2k
+- 👋 Hi, I’m @ Umeshnayak
 - 👀 I’m interested in POWER  BI 
 - 🌱 I’m currently learning  Business Analytics 
 - 💞️ I’m looking to collaborate on  DATA Analytics 
